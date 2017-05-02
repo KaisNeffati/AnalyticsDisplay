@@ -1,0 +1,5 @@
+com\obego\Entity\BatchRepository.class
+com\obego\config\WebConfig.class
+com\obego\Entity\batch_users_by_places.class
+com\obego\Entity\StreamRepository.class
+com\obego\Entity\stream_users_by_places.class
